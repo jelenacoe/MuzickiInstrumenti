@@ -1,0 +1,11 @@
+C:\Users\ZoranaBabic\Desktop\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.csprojResolveAssemblyReference.cache
+C:\Users\ZoranaBabic\Desktop\Cas 03 - resenje\Z2-MuzickiInstrumenti\bin\Debug\MuzickiInstrumenti.exe
+C:\Users\ZoranaBabic\Desktop\Cas 03 - resenje\Z2-MuzickiInstrumenti\bin\Debug\MuzickiInstrumenti.pdb
+C:\Users\ZoranaBabic\Desktop\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.exe
+C:\Users\ZoranaBabic\Desktop\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.pdb
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\bin\Debug\MuzickiInstrumenti.exe
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\bin\Debug\MuzickiInstrumenti.pdb
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.csprojAssemblyReference.cache
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.csproj.CoreCompileInputs.cache
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.exe
+E:\POSAO\CMT\2019 - 2020\Uvod u C#\3. Koncepti C#\Cas 03 - resenje\Z2-MuzickiInstrumenti\obj\x86\Debug\MuzickiInstrumenti.pdb
